@@ -1,0 +1,13 @@
+.TracksTable {
+  width: 40vw;
+  border-right: 1px solid #919191;
+  background-color: #fafafa;
+}
+
+.ant-table-row {
+  cursor: pointer;
+}
+
+.selected-row {
+  background-color: #ffd2d2;
+}
